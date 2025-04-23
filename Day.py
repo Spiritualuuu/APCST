@@ -1,16 +1,16 @@
-input = int(input())
+inputOne = int(input())
 
-if(input == 1):
+if(inputOne == 1):
     print("Sunday")
-elif(input == 2):
+elif(inputOne == 2):
     print("Monday")
-elif(input == 3):
+elif(inputOne == 3):
     print("Tuesday")
-elif(input == 4):
+elif(inputOne == 4):
     print("Wednesday")
-elif(input == 5):
+elif(inputOne == 5):
     print("Thursday")
-elif(input == 6):
+elif(inputOne == 6):
     print("Friday")
 else:
     print("Saturday")

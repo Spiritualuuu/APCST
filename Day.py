@@ -1,4 +1,5 @@
 inputOne = int(input())
+print("Enter a number that corresponds to a day of the week.")
 
 if(inputOne == 1):
     print("Sunday")
